@@ -1,0 +1,15 @@
+.button {
+    background: linear-gradient(135deg, #fbc2eb, #a6c1ee);
+    padding: 10px 30px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    transition: 0.3s;
+  }
+  
+  .button:hover {
+    background: linear-gradient(135deg, #a6c1ee, #fbc2eb);
+  }
+  
